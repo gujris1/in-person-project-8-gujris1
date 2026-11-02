@@ -502,7 +502,7 @@ section {
 /* Grid children start hidden and fade in one after another once the grid is visible */
 .stagger-children > * {
   /* TODO: Add staggered delay for children */
-  pacity: 0;
+  opacity: 0;
 }
 
 .stagger-children.visible > * {
